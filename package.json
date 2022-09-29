@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joeyaza/flatten-array.git"
+    "url": "git+https://github.com/joeyaza/expression-tree.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joeyaza/flatten-array/issues"
+    "url": "https://github.com/joeyaza/expression-tree/issues"
   },
-  "homepage": "https://github.com/joeyaza/flatten-array#readme",
+  "homepage": "https://github.com/joeyaza/expression-tree#readme",
   "devDependencies": {
     "@types/jest": "^29.1.0",
     "jest": "^28.1.1",
